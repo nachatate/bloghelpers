@@ -757,7 +757,7 @@ if ( typeof Object.create !== "function" ) {
 
 		css2move : function(value){
 			var base = this;
-			base.$owlWrapper.css({"right" : value})
+			base.$owlWrapper.css({"left" : value})
 		},
 
 		css2slide : function(value,speed){
@@ -765,7 +765,7 @@ if ( typeof Object.create !== "function" ) {
 
 			base.isCssFinish = false;
 			base.$owlWrapper.stop(true,true).animate({
-				"right" : value
+				"left" : value
 			}, {
 				duration : speed || base.options.slideSpeed ,
 				complete : function(){
