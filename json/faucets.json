@@ -12,7 +12,7 @@
         "url": "http://moonbit.co.in/",
 	    "rating": 8,
         "releaseYear": 2017,
-        "genre": ["Free-btc", "Weekly-payment", "Payment-options"]
+        "genre": ["Free-btc", "Weekly-payment"]
     },
     {
         "title": "Claimbtc",
@@ -20,7 +20,7 @@
         "url": "http://claimbtc.com/?r=fa1b637c94",
 	    "rating": 7.3,
         "releaseYear": 2017,
-        "genre": ["Free-btc", "Statistics", "Referral-program"]
+        "genre": ["Free-btc", "Statistics", "Referrals"]
     },
     {
         "title": "Elenafaucets",
@@ -28,7 +28,7 @@
         "url": "http://elenafaucets.com/freebitcoin01/?ref=1NosD4jncC2Qg4utwGaZMu3wBsqoPyxHGd",
 	    "rating": 5.4,
         "releaseYear": 2017,
-        "genre": ["Free-btc", "Referral-program"]
+        "genre": ["Free-btc", "Referrals"]
     },
     {
         "title": "Takefreebitcoin",
@@ -36,7 +36,7 @@
         "url": "https://takefreebitcoin.com/",
 	    "rating": 4.8,
         "releaseYear": 2017,
-        "genre": ["Free-btc", "Referral-program"]
+        "genre": ["Free-btc", "Referrals"]
     },
 	{
         "title": "Bitcoinaliens",
@@ -68,7 +68,7 @@
         "url": "https://www.forumcoin.win/",
 	    "rating": 1.9,
         "releaseYear": 2017,
-        "genre": ["Free-btc", "REGISTER-to-claim", "Forum"]
+        "genre": ["Free-btc", "Forum"]
     },
     {
         "title": "Autofaucet",
