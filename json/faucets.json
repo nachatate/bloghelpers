@@ -2,7 +2,7 @@
         "title": "Dawn of the Planet of the Apes",
         "image": "http://api.androidhive.info/json/movies/1.jpg",
         "url": "https://freebitco.in/?r=1347453",
-		"rating": 8.3,
+	"rating": 8.3,
         "releaseYear": 2014,
         "genre": ["Action", "Drama", "Sci-Fi"]
     },
@@ -10,7 +10,7 @@
         "title": "District 9",
         "image": "http://api.androidhive.info/json/movies/2.jpg",
         "url": "http://moonbit.co.in/",
-		"rating": 8,
+	"rating": 8,
         "releaseYear": 2009,
         "genre": ["Action", "Sci-Fi", "Thriller"]
     },
@@ -18,7 +18,7 @@
         "title": "Transformers: Age of Extinction",
         "image": "http://api.androidhive.info/json/movies/3.jpg",
         "url": "http://claimbtc.com/?r=fa1b637c94",
-		"rating": 6.3,
+	"rating": 6.3,
         "releaseYear": 2014,
         "genre": ["Action", "Adventure", "Sci-Fi"]
     },
@@ -26,7 +26,7 @@
         "title": "X-Men: Days of Future Past",
         "image": "http://api.androidhive.info/json/movies/4.jpg",
         "url": "http://elenafaucets.com/freebitcoin01/?ref=1NosD4jncC2Qg4utwGaZMu3wBsqoPyxHGd",
-		"rating": 8.4,
+	"rating": 8.4,
         "releaseYear": 2014,
         "genre": ["Action", "Sci-Fi", "Thriller"]
     },
@@ -34,7 +34,7 @@
         "title": "The Machinist",
         "image": "http://api.androidhive.info/json/movies/5.jpg",
         "url": "http://www.robotcoingame.com/",
-		"rating": 7.8,
+	"rating": 7.8,
         "releaseYear": 2004,
         "genre": ["Drama", "Thriller"]
     },
@@ -42,7 +42,7 @@
         "title": "The Last Samurai",
         "image": "http://api.androidhive.info/json/movies/6.jpg",
         "url": "http://bonusbitcoin.co/",
-		"rating": 7.7,
+	"rating": 7.7,
         "releaseYear": 2003,
         "genre": ["Action", "Drama", "History"]
     },
@@ -50,7 +50,7 @@
         "title": "The Amazing Spider-Man 2",
         "image": "http://api.androidhive.info/json/movies/7.jpg",
         "url": "http://bitfun.co/",
-		"rating": 7.3,
+	"rating": 7.3,
         "releaseYear": 2014,
         "genre": ["Action", "Adventure", "Fantasy"]
     },
@@ -58,7 +58,7 @@
         "title": "Tangled",
         "image": "http://api.androidhive.info/json/movies/8.jpg",
         "url": "https://www.forumcoin.win/",
-		"rating": 7.9,
+	"rating": 7.9,
         "releaseYear": 2010,
         "genre": ["Action", "Drama", "Sci-Fi"]
     },
@@ -66,7 +66,7 @@
         "title": "Rush",
         "image": "http://api.androidhive.info/json/movies/9.jpg",
         "url": "https://autofaucet.io/",
-		"rating": 8.3,
+	"rating": 8.3,
         "releaseYear": 2013,
         "genre": ["Animation", "Comedy", "Family"]
     },
@@ -74,7 +74,7 @@
         "title": "How to Train Your Dragon",
         "image": "https://autofaucet.io/",
         "url": "",
-		"rating": 8.2,
+	"rating": 8.2,
         "releaseYear": 2010,
         "genre": ["Animation", "Adventure", "Family"]
     }]
